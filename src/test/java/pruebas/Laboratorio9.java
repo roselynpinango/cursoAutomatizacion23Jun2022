@@ -35,6 +35,8 @@ public class Laboratorio9 {
 		// Celda con el valor 8: Fila 4, Columna 3
 		System.out.println("Fila 4 - Columna 3: " + tabla.consultarCelda8());
 		
+		
+		System.out.println("Fin de la prueba de Tablas");
 		/*
 		String tr = "/tr[3]";
 		String td = "/td[1]";
